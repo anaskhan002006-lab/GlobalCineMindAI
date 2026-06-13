@@ -108,3 +108,6 @@ Added GitHub achievement workflow.
 
 - Improved documentation
 - Added GitHub achievements workflow
+
+## Version 1.2
+Added project screenshots.
