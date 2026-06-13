@@ -103,3 +103,8 @@ Machine Learning & Python Developer
 ## Latest Update
 
 Added GitHub achievement workflow.
+
+## Version 1.1
+
+- Improved documentation
+- Added GitHub achievements workflow
